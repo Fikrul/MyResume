@@ -147,7 +147,7 @@
       loop: true,
       typeSpeed: 25,
       backSpeed: 10,
-      backDelay: 10
+      backDelay: 500
     });
   }
 
